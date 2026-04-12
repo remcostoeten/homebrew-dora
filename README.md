@@ -59,7 +59,7 @@ your CPU architecture:
 - **Intel Macs** — `Dora_<version>_x64.dmg`
 - **Apple Silicon Macs** — `Dora_<version>_aarch64.dmg`
 
-Linux release artifacts are still available from the GitHub releases page, but
+Linux release artifacts remain available from the main Dora release page, but
 they are not installed through this Homebrew tap.
 
 ## License
