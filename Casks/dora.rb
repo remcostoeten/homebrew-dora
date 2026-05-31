@@ -1,9 +1,9 @@
 cask "dora" do
   arch arm: "aarch64", intel: "x64"
 
-  version "0.25.1"
-  sha256 arm:   "a40281b913bd3e9d7fe27f0620ab1b3ebfcfa8422b4817e8937f5c4b8b135f96",
-         intel: "3b713dc8867b30052bac795c01e7bbba179dd68dbaefbcc447cf85a85c7ef576"
+  version "0.26.7"
+  sha256 arm:   "64904516dc803593075fa8b05e0dd5cdbc67ba4d0b2fac1813a64aa44e69cd03",
+         intel: "50eb7658136e6ab3ed51b3f82832ed7fb1725638178e17eb47c271622b0ae68c"
 
   url "https://github.com/remcostoeten/dora/releases/download/v#{version}/Dora_#{version}_#{arch}.dmg"
   name "Dora"
