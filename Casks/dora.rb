@@ -1,6 +1,6 @@
 cask "dora" do
-  version "0.40.0"
-  sha256 "861ac9751bb5a668993894b5b76ff740a125f6d60dfa479a84d07a1c205e4a69"
+  version "0.41.0"
+  sha256 "e9c421aa98b7cc6aab609775570d051072de6fc9f65179ba31cb5f956226e223"
 
   url "https://github.com/remcostoeten/dora/releases/download/v#{version}/Dora_#{version}_aarch64.dmg"
   name "Dora"
